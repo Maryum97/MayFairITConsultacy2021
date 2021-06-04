@@ -4,7 +4,7 @@ import Picture from '../../Assets/nordwood-themes-kRNZiGKtz48-unsplash.jpg';
 
 function Header() {
     return (
-        <div className="header position-relative text-center bg-light">
+        <div className="header text-center bg-light">
             <div className="background-img" style={{
                 backgroundImage: `url(${Picture})`
             }}>
